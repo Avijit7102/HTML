@@ -1,0 +1,44 @@
+.right{
+    float: right;
+    width: 500px;
+    padding: 10px 20px;
+    background-color: #eaf2fc
+}
+.left{
+    float: left;
+}
+.left img{
+    height: 400px;
+    width: 600px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 100px 50px;
+    height: 400px;
+}
+.right-last{
+    display: flex;
+    grid-gap: 50px;
+}
+.last-part{
+    float: left;
+}
+h1{
+    font-family: monospace;
+    font-style: initial;
+    font-weight: 700;
+}
+h3{
+    font-family: monospace;
+    font-style: initial;
+    font-weight: 500;
+}
+h4{
+    color: aqua;
+}
+p{
+    font-weight: bold;
+    font-family: monospace;
+    font-style: initial;
+}
